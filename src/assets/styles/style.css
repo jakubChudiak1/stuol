@@ -45,12 +45,6 @@ body {
   flex-shrink: 0;
 }
 
-.logo-header {
-}
-
-.logo-bottom {
-}
-
 /*Landing section*/
 
 #landing-section {
@@ -383,7 +377,7 @@ input {
   line-height: normal;
 }
 
-/* Screen width 1870px or less*/
+/* Screen width 1919px or less*/
 
 @media only screen and (max-width: 1919px) {
   .navbar {
@@ -451,6 +445,8 @@ input {
   }
 }
 
+/* Screen width 1700px or less*/
+
 @media only screen and (max-width: 1700px) {
   .navbar {
     padding: 50px 80px 50px 80px;
@@ -484,6 +480,8 @@ input {
   }
 }
 
+/* Screen width 1650px or less*/
+
 @media only screen and (max-width: 1650px) {
   .soon {
     top: 85%;
@@ -502,6 +500,8 @@ input {
     height: 350px;
   }
 }
+
+/* Screen width 1460px or less*/
 
 @media only screen and (max-width: 1460px) {
   #landing-section {
@@ -526,6 +526,8 @@ input {
     padding-right: 40px;
   }
 }
+
+/* Screen width 1300px or less*/
 
 @media only screen and (max-width: 1300px) {
   .navbar {
@@ -628,6 +630,8 @@ input {
   }
 }
 
+/* Screen width 1150px or less*/
+
 @media only screen and (max-width: 1150px) {
   #landing-section {
     height: 700px;
@@ -647,6 +651,8 @@ input {
     height: 65px;
   }
 }
+
+/* Screen width 980px or less*/
 
 @media only screen and (max-width: 980px) {
   .navbar {
@@ -709,6 +715,8 @@ input {
   }
 }
 
+/* Screen width 840px or less*/
+
 @media only screen and (max-width: 840px) {
   #landing-section {
     height: 600px;
@@ -737,6 +745,8 @@ input {
     height: 240px;
   }
 }
+
+/* Screen width 650px or less*/
 
 @media only screen and (max-width: 650px) {
   #landing-section::before {
@@ -779,6 +789,8 @@ input {
   }
 }
 
+/* Screen width 515px or less*/
+
 @media only screen and (max-width: 515px) {
   #landing-section::before {
     display: none;
@@ -789,6 +801,8 @@ input {
     justify-content: center;
   }
 }
+
+/* Screen width 450px or less*/
 
 @media only screen and (max-width: 450px) {
   .not-us-item {
@@ -812,6 +826,8 @@ input {
     padding: 30px 35px;
   }
 }
+
+/* Screen width 410px or less*/
 
 @media only screen and (max-width: 410px) {
   .soon {
